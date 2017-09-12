@@ -1,6 +1,10 @@
 # README
 
+### Material design:
+https://material.io
+https://material.io/components/web/catalog/
 
-1 - slideshow: map of bandung, something to make you dizzy
 
-2 - Material Design
+### Interactive code website:
+https://tympanus.net/codrops/
+
